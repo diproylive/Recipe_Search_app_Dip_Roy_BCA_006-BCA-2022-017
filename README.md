@@ -5,16 +5,25 @@ Tagline: "Discover and Create Recipes"
    1. User Authentication:
         -Users sign in using Firebase Authentication (Email/Password).
         -Secure user data storage in Firebase
+
+
       ![image alt](https://github.com/diproylive/Recipe_Search_app_Dip_Roy_BCA_006-BCA-2022-017/blob/master/WhatsApp%20Image%202024-10-30%20at%207.13.54%20PM.jpeg)
+
+      
    3. Recipe Search:
         -Search bar to find recipes by name, ingredient, or category
         -API integration (e.g., Spoonacular, Yummly, or Edamam) for recipe data
         -Display recipe details (ingredients, instructions, images)
    4. Personal Recipe Management:
+
+      
+      ![image alt](https://github.com/diproylive/Recipe_Search_app_Dip_Roy_BCA_006-BCA-2022-017/blob/master/WhatsApp%20Image%202024-10-30%20at%207.13.54%20PM(2).jpeg)
+
+      
         -Users can add, edit, and delete their own recipes
         -Recipe data stored in Firebase Realtime Database or Firestore
         -Users can categorize and tag their recipes
-   5. Recipe Book:
+   6. Recipe Book:
         -Users can save and organize favorite recipes
         -Filter and search saved recipes
  ~Technical Requirements:
