@@ -69,5 +69,6 @@ Add repice :
  ![image alt](https://github.com/diproylive/Recipe_Search_app_Dip_Roy_BCA_006-BCA-2022-017/blob/master/WhatsApp%20Image%202024-10-30%20at%207.13.54%20PM(2).jpeg)
 
 
-
+install app:
+https://expo.dev/artifacts/eas/vHmmFwd4nu6vz169Ha8BYd.apk
 
