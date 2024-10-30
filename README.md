@@ -11,10 +11,14 @@ Tagline: "Discover and Create Recipes"
 
       
    3. Recipe Search:
+
+      ![image alt](https://github.com/diproylive/Recipe_Search_app_Dip_Roy_BCA_006-BCA-2022-017/blob/master/WhatsApp%20Image%202024-10-30%20at%207.13.54%20PM(1).jpeg)
+
+      
         -Search bar to find recipes by name, ingredient, or category
         -API integration (e.g., Spoonacular, Yummly, or Edamam) for recipe data
         -Display recipe details (ingredients, instructions, images)
-   4. Personal Recipe Management:
+   5. Personal Recipe Management:
 
       
       ![image alt](https://github.com/diproylive/Recipe_Search_app_Dip_Roy_BCA_006-BCA-2022-017/blob/master/WhatsApp%20Image%202024-10-30%20at%207.13.54%20PM(2).jpeg)
@@ -39,3 +43,31 @@ Tagline: "Discover and Create Recipes"
    3. View recipe details
    4. Add personal recipe
    5. Manage personal recipes
+
+
+
+
+
+
+
+Over View App image: 
+
+
+Sign In: 
+
+   ![image alt](https://github.com/diproylive/Recipe_Search_app_Dip_Roy_BCA_006-BCA-2022-017/blob/master/WhatsApp%20Image%202024-10-30%20at%207.13.54%20PM.jpeg)
+
+
+search and over view: 
+
+   ![image alt](https://github.com/diproylive/Recipe_Search_app_Dip_Roy_BCA_006-BCA-2022-017/blob/master/WhatsApp%20Image%202024-10-30%20at%207.13.54%20PM(1).jpeg)
+
+
+Add repice :
+
+
+ ![image alt](https://github.com/diproylive/Recipe_Search_app_Dip_Roy_BCA_006-BCA-2022-017/blob/master/WhatsApp%20Image%202024-10-30%20at%207.13.54%20PM(2).jpeg)
+
+
+
+
